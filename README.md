@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gilang Ramadhan Nugraha
+<!-- - 👋 Hi, I’m Gilang Ramadhan Nugraha
 - 👀 I’m interested in Web and Mobile Apps 
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on everyone
+- 💞️ I’m looking to collaborate on everyone -->
 <!-- - 📫 How to reach me .. -->
 
 <!---
